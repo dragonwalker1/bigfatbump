@@ -1,13 +1,13 @@
 modLoader="javafml"
 loaderVersion="[43,)"
-license="Academic Free License v3.0"
+license="Not specified"
 
 [[mods]]
 modId="biggyboompy"
 version="1.0.0"
 displayName="biggyboompy"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
+credits="We used MCreator to make some of this mod."
+displayURL="https://github.com/dragonwalker1/bigfatbump.git"
 authors="Drake, MCreator"
 
 [[dependencies.biggyboompy]]

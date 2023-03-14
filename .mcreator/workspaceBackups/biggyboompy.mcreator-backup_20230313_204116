@@ -14,8 +14,8 @@
     "modName": "biggyboompy",
     "version": "1.0.0",
     "author": "Drake, MCreator",
-    "websiteURL": "https://github.com/dragonwalker1/bigfatbump.git",
-    "license": "Not specified",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
@@ -23,7 +23,6 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.19.2",
-    "credits": "We used MCreator to make some of this mod.",
     "modElementsPackage": "net.mcreator.biggyboompy",
     "lockBaseModFiles": false
   },
